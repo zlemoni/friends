@@ -54,7 +54,7 @@ export const config = {
 
     // 目标链接
     // 检查网站是否包含此链接
-    targetLink: 'https://xaoxuu.com',
+    targetLink: 'https://blog.moodlog.cn',
     
   },
 
